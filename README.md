@@ -1,0 +1,2 @@
+# spring_boot_simple_custom_error_pages
+spring_boot_simple_custom_error_pages
